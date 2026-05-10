@@ -5,5 +5,5 @@ export function Footer() {
         <p>© 2026 GigaStudio. Все права защищены.</p>
       </div>
     </footer>
-  );
+  )
 }

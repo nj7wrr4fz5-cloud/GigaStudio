@@ -1,5 +1,5 @@
-import Link from "next/link";
-import { Button } from "./ui/button";
+import Link from "next/link"
+import { Button } from "./ui/button"
 
 export function Header() {
   return (
@@ -15,5 +15,5 @@ export function Header() {
         </nav>
       </div>
     </header>
-  );
+  )
 }
